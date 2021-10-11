@@ -14,3 +14,11 @@ https://nl.nex-software.com/wat-regeditexe
 
 - Locatie: `C:\Windows\explorer.exe`
 - Doel: BestandBrowser
+
+## Desktop 
+- Locatie: `C:\WINDOWS\system32\desk.cpl`
+- Doel: Instellingen
+
+## FireWall
+- Locatie: `C:\WINDOWS\system32\Firewall.cpl`
+- Doel: ConfiguratieScherm van Firewall
