@@ -35,8 +35,15 @@ https://nl.nex-software.com/wat-regeditexe
 
 # CLI - Tools
 ## ping 8.8.8.8
-> DNS tools dan kan je testen of u wifi werkt.
+- Command Line: `ping 8.8.8.8`
+> Dit ping tool maakt gebruik van ICMP packtes om te controleren of de remote host toegankelijk is.
 
 ## ipconfig
+- Command Line: `ipconfig`
+
+> IPCONFIG kunt u dus controleren of de informatie die u opgegeven hebt tijdens de configuratie juist is.
 
 ## nslookup
+- Command Line: `nslookup`
+
+> nslookup is een netwerkgereedschap dat gebruikt wordt om DNS-servers te ondervragen en zodoende informatie te vergaren over onder meer de MX-records en nameservers (NS) van een domein.
